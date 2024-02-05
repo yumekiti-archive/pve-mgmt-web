@@ -1,0 +1,42 @@
+export const mockProjects = [
+  {
+    id: 1,
+    uuid: "00000000-0000-0000-0000-000000000000",
+    name: "Project 1",
+    ip: "10.10.10.10",
+    tags: ["web"],
+    status: true,
+  },
+  {
+    id: 2,
+    uuid: "00000000-0000-0000-0000-000000000000",
+    name: "Project 2",
+    ip: "10.10.10.11",
+    tags: ["web"],
+    status: true,
+  },
+  {
+    id: 3,
+    uuid: "00000000-0000-0000-0000-000000000000",
+    name: "Project 3",
+    ip: "10.10.10.12",
+    tags: ["ai"],
+    status: false,
+  },
+  {
+    id: 4,
+    uuid: "00000000-0000-0000-0000-000000000000",
+    name: "Project 4",
+    ip: "10.10.10.13",
+    tags: ["bot"],
+    status: true,
+  },
+  {
+    id: 5,
+    uuid: "00000000-0000-0000-0000-000000000000",
+    name: "Project 5",
+    ip: "10.10.10.14",
+    tags: ["web", "api"],
+    status: false,
+  },
+];

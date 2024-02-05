@@ -1,5 +1,5 @@
-import { FC } from 'react';
-import { footerText } from '../../constants/texts';
+import { FC } from "react";
+import { footerText } from "../../constants/texts";
 
 const Component: FC = () => (
   <footer className="bg-Elements-CardBackground p-1 md:p-2">
